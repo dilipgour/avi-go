@@ -1,2 +1,6 @@
-input.mp4
-output.avi
+
+*.avi
+out.aac
+out.h264
+*.mp4
+*.txt
